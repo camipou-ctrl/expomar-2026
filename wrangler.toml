@@ -1,0 +1,4 @@
+name = "expomar-2026"
+main = "index.js"
+compatibility_date = "2026-11-25"
+workers_dev = true
