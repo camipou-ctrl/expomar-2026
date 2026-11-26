@@ -2,3 +2,8 @@ name = "expomar-2026"
 main = "index.js"
 compatibility_date = "2026-11-25"
 workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "expomar-2026-db"
+database_id = "d531c865-24cb-493d-91e8-5efbcade1560"
